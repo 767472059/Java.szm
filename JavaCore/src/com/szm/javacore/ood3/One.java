@@ -12,6 +12,7 @@ public class One {
 		
 		for (int i : intArray) {
 			System.out.println(i);
+			System.out.println();
 		}
 
 }

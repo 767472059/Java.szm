@@ -13,6 +13,9 @@ public class TPhone implements Iiphone {
 		System.out.println("我是锤子手机，我实现了IiPhone接口的 printSelfName方法！");// TODO Auto-generated method stub
 
 	}
+	
+	
+	
 
 	public static void main(String[] args) {
 		Iiphone iiPhone = new TPhone();
